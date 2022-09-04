@@ -1,0 +1,9 @@
+1.Create an Web Page that greets "Happy Janmashtami" in 15min
+2.Shows different images relative to it
+3.Can make a use of components to make it better
+4.Can add effects audio/video files
+5.Animated "Happy Janmashtami"
+6.Add importance of celebration - story on new page
+
+(Size of application not more than 2 pages)
+
